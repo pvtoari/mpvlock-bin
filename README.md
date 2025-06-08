@@ -1,6 +1,6 @@
 # mpvlock-bin
 
-![showcase](/resources/showcase.mp4)
+https://github.com/user-attachments/assets/1af1cf60-b0d0-4423-b7b6-971721197959
 
 `mpvlock-bin` is an unofficial repackaging of the `mpvlock` screen locker utility for Hyprland, bundled with its required runtime library (`libhyprutils.so.5`) and configuration assets. This repository aims to preserve functionality for legacy users, as the original sources have been taken offline.
 
