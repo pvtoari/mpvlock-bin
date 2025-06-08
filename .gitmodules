@@ -1,4 +1,4 @@
 [submodule "src"]
 	path = src
-	url = https://github.com/ZhengLinLei/hyprlock.git
+	url = https://github.com/ZhengLinLei/hyprlock-mpvlock-fork-src.git
 	branch = nomadxxx-version
